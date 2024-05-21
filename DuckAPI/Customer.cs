@@ -16,7 +16,7 @@
 
         public async Task notificationAsync()
         {
-            var k = Environment.GetEnvironmentVariable("SENDGRID_API_KEY");
+            var k = "Enter key here";
             var client = new SendGridClient(k);
             var from = new EmailAddress("moolmans20013@gmail.com", "Duckie ducks");
             var subject = "Sending with SendGrid is Fun";
