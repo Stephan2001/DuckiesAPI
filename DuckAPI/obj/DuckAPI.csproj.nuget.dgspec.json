@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\moolm\\source\\Year3\\DuckAPI\\DuckAPI\\DuckAPI.csproj": {}
+    "C:\\Users\\moolm\\source\\Cloned_Repos\\DuckiesAPI\\DuckAPI\\DuckAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\moolm\\source\\Year3\\DuckAPI\\DuckAPI\\DuckAPI.csproj": {
+    "C:\\Users\\moolm\\source\\Cloned_Repos\\DuckiesAPI\\DuckAPI\\DuckAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\moolm\\source\\Year3\\DuckAPI\\DuckAPI\\DuckAPI.csproj",
+        "projectUniqueName": "C:\\Users\\moolm\\source\\Cloned_Repos\\DuckiesAPI\\DuckAPI\\DuckAPI.csproj",
         "projectName": "DuckAPI",
-        "projectPath": "C:\\Users\\moolm\\source\\Year3\\DuckAPI\\DuckAPI\\DuckAPI.csproj",
+        "projectPath": "C:\\Users\\moolm\\source\\Cloned_Repos\\DuckiesAPI\\DuckAPI\\DuckAPI.csproj",
         "packagesPath": "C:\\Users\\moolm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\moolm\\source\\Year3\\DuckAPI\\DuckAPI\\obj\\",
+        "outputPath": "C:\\Users\\moolm\\source\\Cloned_Repos\\DuckiesAPI\\DuckAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

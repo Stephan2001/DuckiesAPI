@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9NxH/2nbbiZ7F3u1/nJ+71oIocdp66G5ULyOFj/A1klRs8/o055o+N+PzIfIEgc+R2LjlOxmpi+PdMUm0Lag8Q==",
+  "dgSpecHash": "b42Q2FkTd9xV9foM6Jy0Nkr40/pGQlIhzTrRoC1A+t70Whx3bI/+pQ2kc86nGklg65ijDPDzNOv9KbBgJwsNNg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\moolm\\source\\Year3\\DuckAPI\\DuckAPI\\DuckAPI.csproj",
+  "projectFilePath": "C:\\Users\\moolm\\source\\Cloned_Repos\\DuckiesAPI\\DuckAPI\\DuckAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\moolm\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.0\\microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
     "C:\\Users\\moolm\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
