@@ -1,0 +1,15 @@
+C:\Users\moolm\source\Year3\DuckAPI\DuckAPI\obj\Docker\publish\DuckAPI.exe
+C:\Users\moolm\source\Year3\DuckAPI\DuckAPI\obj\Docker\publish\appsettings.Development.json
+C:\Users\moolm\source\Year3\DuckAPI\DuckAPI\obj\Docker\publish\appsettings.json
+C:\Users\moolm\source\Year3\DuckAPI\DuckAPI\obj\Docker\publish\DuckAPI.dll
+C:\Users\moolm\source\Year3\DuckAPI\DuckAPI\obj\Docker\publish\DuckAPI.deps.json
+C:\Users\moolm\source\Year3\DuckAPI\DuckAPI\obj\Docker\publish\DuckAPI.runtimeconfig.json
+C:\Users\moolm\source\Year3\DuckAPI\DuckAPI\obj\Docker\publish\DuckAPI.pdb
+C:\Users\moolm\source\Year3\DuckAPI\DuckAPI\obj\Docker\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\moolm\source\Year3\DuckAPI\DuckAPI\obj\Docker\publish\Microsoft.OpenApi.dll
+C:\Users\moolm\source\Year3\DuckAPI\DuckAPI\obj\Docker\publish\Newtonsoft.Json.dll
+C:\Users\moolm\source\Year3\DuckAPI\DuckAPI\obj\Docker\publish\SendGrid.dll
+C:\Users\moolm\source\Year3\DuckAPI\DuckAPI\obj\Docker\publish\StarkbankEcdsa.dll
+C:\Users\moolm\source\Year3\DuckAPI\DuckAPI\obj\Docker\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\moolm\source\Year3\DuckAPI\DuckAPI\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\moolm\source\Year3\DuckAPI\DuckAPI\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
